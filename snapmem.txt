@@ -1,0 +1,151 @@
+>> showsnapmemsizes
+Resolution: 100x100
+- 1 snaps:
+-- 0.5deg sep: 5.89MiB
+-- 1deg sep: 2.94MiB
+-- 2deg sep: 1.47MiB
+- 10 snaps:
+-- 0.5deg sep: 58.87MiB
+-- 1deg sep: 29.43MiB
+-- 2deg sep: 14.72MiB
+- 20 snaps:
+-- 0.5deg sep: 117.73MiB
+-- 1deg sep: 58.87MiB
+-- 2deg sep: 29.43MiB
+- 50 snaps:
+-- 0.5deg sep: 294.33MiB
+-- 1deg sep: 147.17MiB
+-- 2deg sep: 73.58MiB
+- 100 snaps:
+-- 0.5deg sep: 588.66MiB
+-- 1deg sep: 294.33MiB
+-- 2deg sep: 147.17MiB
+- 176 snaps:
+-- 0.5deg sep: 1.01GiB
+-- 1deg sep: 518.02MiB
+-- 2deg sep: 259.01MiB
+- 1000 snaps:
+-- 0.5deg sep: 5.75GiB
+-- 1deg sep: 2.87GiB
+-- 2deg sep: 1.44GiB
+.
+Resolution: 50x50
+- 1 snaps:
+-- 0.5deg sep: 1.46MiB
+-- 1deg sep: 745.66KiB
+-- 2deg sep: 372.83KiB
+- 10 snaps:
+-- 0.5deg sep: 14.56MiB
+-- 1deg sep: 7.28MiB
+-- 2deg sep: 3.64MiB
+- 20 snaps:
+-- 0.5deg sep: 29.13MiB
+-- 1deg sep: 14.56MiB
+-- 2deg sep: 7.28MiB
+- 50 snaps:
+-- 0.5deg sep: 72.82MiB
+-- 1deg sep: 36.41MiB
+-- 2deg sep: 18.20MiB
+- 100 snaps:
+-- 0.5deg sep: 145.64MiB
+-- 1deg sep: 72.82MiB
+-- 2deg sep: 36.41MiB
+- 176 snaps:
+-- 0.5deg sep: 256.32MiB
+-- 1deg sep: 128.16MiB
+-- 2deg sep: 64.08MiB
+- 1000 snaps:
+-- 0.5deg sep: 1.42GiB
+-- 1deg sep: 728.19MiB
+-- 2deg sep: 364.09MiB
+.
+Resolution: 20x20
+- 1 snaps:
+-- 0.5deg sep: 228.52KiB
+-- 1deg sep: 114.26KiB
+-- 2deg sep: 57.13KiB
+- 10 snaps:
+-- 0.5deg sep: 2.23MiB
+-- 1deg sep: 1.12MiB
+-- 2deg sep: 571.29KiB
+- 20 snaps:
+-- 0.5deg sep: 4.46MiB
+-- 1deg sep: 2.23MiB
+-- 2deg sep: 1.12MiB
+- 50 snaps:
+-- 0.5deg sep: 11.16MiB
+-- 1deg sep: 5.58MiB
+-- 2deg sep: 2.79MiB
+- 100 snaps:
+-- 0.5deg sep: 22.32MiB
+-- 1deg sep: 11.16MiB
+-- 2deg sep: 5.58MiB
+- 176 snaps:
+-- 0.5deg sep: 39.28MiB
+-- 1deg sep: 19.64MiB
+-- 2deg sep: 9.82MiB
+- 1000 snaps:
+-- 0.5deg sep: 223.16MiB
+-- 1deg sep: 111.58MiB
+-- 2deg sep: 55.79MiB
+.
+Resolution: 10x10
+- 1 snaps:
+-- 0.5deg sep: 53.44KiB
+-- 1deg sep: 26.72KiB
+-- 2deg sep: 13.36KiB
+- 10 snaps:
+-- 0.5deg sep: 534.38KiB
+-- 1deg sep: 267.19KiB
+-- 2deg sep: 133.59KiB
+- 20 snaps:
+-- 0.5deg sep: 1.04MiB
+-- 1deg sep: 534.38KiB
+-- 2deg sep: 267.19KiB
+- 50 snaps:
+-- 0.5deg sep: 2.61MiB
+-- 1deg sep: 1.30MiB
+-- 2deg sep: 667.97KiB
+- 100 snaps:
+-- 0.5deg sep: 5.22MiB
+-- 1deg sep: 2.61MiB
+-- 2deg sep: 1.30MiB
+- 176 snaps:
+-- 0.5deg sep: 9.18MiB
+-- 1deg sep: 4.59MiB
+-- 2deg sep: 2.30MiB
+- 1000 snaps:
+-- 0.5deg sep: 52.19MiB
+-- 1deg sep: 26.09MiB
+-- 2deg sep: 13.05MiB
+.
+Resolution: 5x5
+- 1 snaps:
+-- 0.5deg sep: 9.14KiB
+-- 1deg sep: 4.57KiB
+-- 2deg sep: 2.29KiB
+- 10 snaps:
+-- 0.5deg sep: 91.41KiB
+-- 1deg sep: 45.70KiB
+-- 2deg sep: 22.85KiB
+- 20 snaps:
+-- 0.5deg sep: 182.81KiB
+-- 1deg sep: 91.41KiB
+-- 2deg sep: 45.70KiB
+- 50 snaps:
+-- 0.5deg sep: 457.03KiB
+-- 1deg sep: 228.52KiB
+-- 2deg sep: 114.26KiB
+- 100 snaps:
+-- 0.5deg sep: 914.06KiB
+-- 1deg sep: 457.03KiB
+-- 2deg sep: 228.52KiB
+- 176 snaps:
+-- 0.5deg sep: 1.57MiB
+-- 1deg sep: 804.38KiB
+-- 2deg sep: 402.19KiB
+- 1000 snaps:
+-- 0.5deg sep: 8.93MiB
+-- 1deg sep: 4.46MiB
+-- 2deg sep: 2.23MiB
+.
